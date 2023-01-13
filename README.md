@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 <a href = "Jairo: jaimumiran@gmail.com">[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)]</a>
 
-[![](https://gitscores.herokuapp.com/badge?username=sakilk130&label=Gitscore%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitscores.herokuapp.com/)
+[![](https://gitscores.herokuapp.com/badge?username=jairmmz&label=Gitscore%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitscores.herokuapp.com/)
 
 ### ¡Me alegro de verte aquí!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jairmmz&style=flat-square&color=0088cc)
 
