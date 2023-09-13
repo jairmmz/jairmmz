@@ -8,7 +8,13 @@
 
 ### ¡Me alegro de verte aquí!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jairmmz&style=flat-square&color=0088cc)
 
-Soy estudiante de la carrera de Ing. Informática y Sistemas 🤓, de la Universidad Nacional Micaela Bastidas de Apurímac(UNAMBA) 🎓. Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar en tecnologías y dominios 💡. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real ✨. Actualmente me dedico al desarrollo web 🕸️ y mis estudios 🤓.
+👋 ¡Hola, soy Jairo Muñoz Miranda!
+
+🚀 Desarrollador de software apasionado por la creación de soluciones innovadoras y experiencias de usuario excepcionales.
+
+💼 Actualmente, trabajo de forma freelance y he contribuido a proyectos emocionantes.
+
+🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/sakilk130/sakilk130/blob/master/code.gif" />
 
