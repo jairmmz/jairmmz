@@ -21,7 +21,7 @@
 ### Hablando de cosas personales::
 
 - 🚀 &nbsp; Futuro Ingeniero en Sistemas e Informática.
-- 🛠 &nbsp; Actualmente estoy trabajando con Laravel, Node.js, Angular.js, MySQL, etc.
+- 🛠 &nbsp; Actualmente estoy trabajando con Laravel, Node.js, Vue.js, MySQL, Docker,etc.
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos de código abierto están disponibles en. [Github](https://github.com/jairmmz?tab=repositories).
 
 ### Mis favoritos absolutos:
