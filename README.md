@@ -10,18 +10,12 @@
 
 👋 ¡Hola, soy Jairo Muñoz Miranda!
 
-🚀 Desarrollador de software apasionado por la creación de soluciones innovadoras y experiencias de usuario excepcionales.
-
-💼 Actualmente, trabajo de forma freelance y he contribuido a proyectos emocionantes.
-
-🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
+🚀  Programador jr. con experiencia en desarrollo de software y un sólido conocimiento de los fundamentos de la programación.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/sakilk130/sakilk130/blob/master/code.gif" />
 
 ### Hablando de cosas personales::
-
-- 🚀 &nbsp; Futuro Ingeniero en Sistemas e Informática.
-- 🛠 &nbsp; Actualmente estoy trabajando con Laravel, Node.js, Vue.js, MySQL, Docker,etc.
+- 🛠 &nbsp; Actualmente estoy trabajando con Laravel, Nest,js, React.js Node.js, Vue.js, MySQL, Docker.
 - 👨🏻‍💻 &nbsp; La mayoría de mis proyectos de código abierto están disponibles en. [Github](https://github.com/jairmmz?tab=repositories).
 
 ### Mis favoritos absolutos:
