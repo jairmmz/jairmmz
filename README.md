@@ -1,61 +1,58 @@
-### Hey I'm [Jairo](https://github.com/jairmmz) ! 👋
+# Bienvenido a Portafolio.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-muñoz-miranda-812b7a191/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
-<a href = "Jairo: jaimumiran@gmail.com">[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)]</a>
+¡Hola! Soy Jairo Muñoz Miranda, soy programador con experiencia en diversas áreas de desarrollo de software. Este repositorio es mi espacio para compartir proyectos, código y contribuir al emocionante mundo del desarrollo.
 
-[![](https://gitscores.herokuapp.com/badge?username=jairmmz&label=Gitscore%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitscores.herokuapp.com/)
+## Sobre mí
 
-👋 ¡Hola, soy Jairo Muñoz Miranda!
+Soy un profesional de la informática con experiencia en diversas tecnologías y entornos. Mi enfoque principal es desarrollo web. Siempre estoy buscando aprender nuevas cosas y mejorar mis habilidades.
 
-🚀  Programador jr. con experiencia en desarrollo de software y un sólido conocimiento de los fundamentos de la programación.
+## Experiencia
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/sakilk130/sakilk130/blob/master/code.gif" />
+### Lenguajes de Programación
 
-### Hablando de cosas personales::
-- 🛠 &nbsp; Actualmente estoy trabajando con Laravel, Nest,js, React.js Node.js, Vue.js, MySQL, Docker.
-- 👨🏻‍💻 &nbsp; La mayoría de mis proyectos de código abierto están disponibles en. [Github](https://github.com/jairmmz?tab=repositories).
+![Logo de Python](url_del_logo_python) ![Logo de JavaScript](url_del_logo_js) ![Logo de Java](url_del_logo_java)
 
-### Mis favoritos absolutos:
+Tengo experiencia en varios lenguajes de programación, incluyendo Python, JavaScript y Java.
 
-- 💻 &nbsp; Me encanta explorar nuevas pilas tecnológicas y estar al tanto de cosas geniales.
-- 📰 &nbsp; Leer blogs de tecnología siempre que sea posible.
+### Backend
 
-### Lenguajes y Herramientas:
+![Logo de Node.js](url_del_logo_node) ![Logo de Flask](url_del_logo_flask) ![Logo de Spring](url_del_logo_spring)
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img alt="React" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" /></code>
-<code><img alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+He trabajado en proyectos de backend utilizando Node.js, Flask y Spring.
 
-### Proyectos y material de desarrollo:
+### Frontend
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+![Logo de React](url_del_logo_react) ![Logo de Vue.js](url_del_logo_vue) ![Logo de Angular](url_del_logo_angular)
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairmmz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairmmz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</details>
+Mis habilidades en el desarrollo frontend incluyen React, Vue.js y Angular.
 
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
+### Bases de Datos
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jairmmz&hide_border=true&theme=radical" />
-</details>
-<details>
-  <summary><b>📊 Weekly development breakdown</b></summary>
+![Logo de MongoDB](url_del_logo_mongodb) ![Logo de PostgreSQL](url_del_logo_postgres) ![Logo de MySQL](url_del_logo_mysql)
 
-  <br />
-  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairmmz&layout=radical&hide_border=true&theme=radical">
-</details>
+He trabajado con diversas bases de datos, como MongoDB, PostgreSQL y MySQL.
 
-<div align="center">
+### DevOps
+
+![Logo de Docker](url_del_logo_docker) ![Logo de Kubernetes](url_del_logo_kubernetes) ![Logo de Jenkins](url_del_logo_jenkins)
+
+En el ámbito de DevOps, he utilizado herramientas como Docker, Kubernetes y Jenkins.
+
+### Mobile App
+
+![Logo de React Native](url_del_logo_react_native) ![Logo de Flutter](url_del_logo_flutter) ![Logo de Swift](url_del_logo_swift)
+
+He desarrollado aplicaciones móviles utilizando React Native, Flutter y Swift.
+
+### Cloud
+
+![Logo de AWS](url_del_logo_aws) ![Logo de Azure](url_del_logo_azure) ![Logo de Google Cloud](url_del_logo_gcp)
+
+Mi experiencia en la nube abarca servicios de AWS, Azure y Google Cloud.
+
+## Contacto
+
+¡Estoy abierto a colaboraciones y nuevas oportunidades! Puedes contactarme a través de [tu correo electrónico] o [tu perfil de LinkedIn].
+
+¡Gracias por visitar mi repositorio!
+
