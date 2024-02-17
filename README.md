@@ -14,6 +14,7 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="30" src="https://i.blogs.es/e7b69c/java_logo/450_1000.webp" alt="java"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="python"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/320px-C_Sharp_Logo_2023.svg.png" alt="c#"></code>
 
 ### Frameworks Backend
 
