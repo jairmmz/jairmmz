@@ -16,7 +16,6 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 ### Frameworks Backend
 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
-
 <code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
 
 
