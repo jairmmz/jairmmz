@@ -15,7 +15,8 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 
 ### Backend
 
-![Logo de Node.js](url_del_logo_node) ![Logo de Flask](url_del_logo_flask) ![Logo de Spring](url_del_logo_spring)
+<code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
+
 
 ### Frontend
 
@@ -48,8 +49,6 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Proyectos y material de desarrollo:
-### Frontend
-
 
 <details>
 <summary><b>⚡ Github Stats</b></summary>
