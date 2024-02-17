@@ -66,10 +66,7 @@
 ¡Estoy abierto a colaboraciones y nuevas oportunidades! Puedes contactarme a través de [jaimumiran@gmail.com].
 
 [<img height="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="Gmail">](mailto:jaimumira@gmail.com)
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+[<img height="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIn.png?raw=true" alt="LinkedIn">](https://www.linkedin.com/in/jairmmz/)
 
 ¡Gracias por visitar mi repositorio!
 
