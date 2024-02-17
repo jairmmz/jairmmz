@@ -1,12 +1,11 @@
-# Bienvenido a Portafolio.
+# Bienvenido a Portafolio. 👋🏻
 
-¡Hola! Soy Jairo Muñoz Miranda, soy desarrollador de software con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos, código abierto y contribuir al emocionante mundo del desarrollo.
+¡Hola! Soy Jairo Muñoz Miranda, desarrollador de software con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos, código abierto y contribuir al emocionante mundo del desarrollo.
 
 ## Habilidades
 
 ### Lenguajes de Programación
-<code><img height="50" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" alt="php"></code>
-PHP
+<code><img height="50" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" alt="PHP"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="50" src="https://i.blogs.es/e7b69c/java_logo/450_1000.webp" alt="java"></code>
