@@ -26,15 +26,14 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 ### Frameworks Frontend
 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="vuejs"></code>
-<code><img alt="React" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-
+<code><img alt="Next.js" height="27px" src="https://avatars.githubusercontent.com/u/126103961?s=200&v=4" /></code>
+<code><img alt="Angular" height="27px" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" /></code>
 
 ### Bases de Datos
 
 <code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
-
-###<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
 
 ### DevOps
 <code><img height="27" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"></code>
