@@ -13,13 +13,16 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 
-### Backend
+### Frameworks Backend
+
+<code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
 
 
-### Frontend
+### Frameworks Frontend
 
+<code><img height="27" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="vuejs"></code>
 <code><img alt="React" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 
