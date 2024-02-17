@@ -1,10 +1,6 @@
 # Bienvenido a Portafolio.
 
-¡Hola! Soy Jairo Muñoz Miranda, soy programador con experiencia en diversas áreas de desarrollo de software. Este repositorio es mi espacio para compartir proyectos, código y contribuir al emocionante mundo del desarrollo.
-
-## Sobre mí
-
-Soy un profesional de la informática con experiencia en diversas tecnologías y entornos. Mi enfoque principal es desarrollo web. Siempre estoy buscando aprender nuevas cosas y mejorar mis habilidades.
+¡Hola! Soy Jairo Muñoz Miranda, soy desarrollador de software con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos, código abierto y contribuir al emocionante mundo del desarrollo.
 
 ## Habilidades
 
