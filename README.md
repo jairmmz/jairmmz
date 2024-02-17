@@ -42,7 +42,8 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 
 ### Mobile App
 
-![Logo de React Native](url_del_logo_react_native) ![Logo de Flutter](url_del_logo_flutter) ![Logo de Swift](url_del_logo_swift)
+<code><img alt="Ionic Framework" height="27px" src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" /></code>
+<code><img alt="React Native" height="27px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" /></code>
 
 
 ### Cloud
