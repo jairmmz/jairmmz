@@ -20,13 +20,14 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="Nest.js"></code>
-
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".net"></code>
 
 ### Frameworks Frontend
 
 <code><img height="27" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="vuejs"></code>
 <code><img alt="React" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+
 
 ### Bases de Datos
 
