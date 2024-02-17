@@ -18,8 +18,8 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 
 ### Frameworks Backend
 
-<code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
-<code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="laravel"></code>
+<code><img height="27" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="Nest.js"></code>
 
 
 ### Frameworks Frontend
