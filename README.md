@@ -10,7 +10,7 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 
 ### Lenguajes de Programación
 
-![Logo de Python]([url_del_logo_python](https://php.net/)) ![Logo de JavaScript](url_del_logo_js) ![Logo de Java](url_del_logo_java)
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 
 Tengo experiencia en varios lenguajes de programación, incluyendo Python, JavaScript y Java.
 
