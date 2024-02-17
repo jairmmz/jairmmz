@@ -32,8 +32,9 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 ### Bases de Datos
 
 <code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
+<code><img height="27" src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4" alt="MariaDB"></code>
+<code><img height="27" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MongoDB"></code>
 
 ### DevOps
 <code><img height="27" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"></code>
