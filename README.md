@@ -48,7 +48,7 @@ Soy un profesional de la informática con experiencia en diversas tecnologías y
 
 ### Cloud
 
-![Logo de AWS](url_del_logo_aws) ![Logo de Azure](url_del_logo_azure) ![Logo de Google Cloud](url_del_logo_gcp)
+<code><img alt="AWS" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></code>
 
 
 ### Otras herramientas
