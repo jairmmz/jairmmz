@@ -69,39 +69,3 @@
 [<img height="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="LinkedIn">](https://www.linkedin.com/in/jairmmz/)
 
 ¡Gracias por visitar mi repositorio!
-
-                                                                                                                                                                                                        
-                       ',,,,,,,,,,,,.       .'''''''''''.    .';clooddolc:'.            .';clooddoocc;'.             .'''''''''''.     .,:clodddol:,.             .,:cloodoolc,.                        
-                      'OWWWWWWWWWWWX:      ,ONWWWWNNNNNX:.'cx0NWMMMMMMMMMWN0x:.     .;okKNWMMMMMMMMMMWN0o,           lNWNNNNNNNNWk..;oOXWMMMMMMMMWWWXOl'      'cdOXWWMMMMMMMMMWKxc.                     
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMWOkXWWWMMMMMMMMMMMMMMMN0l..;dKWMMMMMMMMMMMMMMMMMMWNx'         oWMMMMMMMMMWXk0WWWWMMMMMMMMMMMMMMWXx,..lkNWMMWWMMMMMMWMMMMWWW0c.                   
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW00NMWMMMMMMMMMMMMMMMMMMMWWWK;        oWMMMMMMMMMWWMMMMMMWMMMMMMMMMMMMMMMMX0XWWWMMMMMMMMMMMMMMMMMMWWNx.                  
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMMMMMMMMMMWWMMWMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMW0,       oWMMMMMMMMMMMMMMMMMMMWWMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWo.                 
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMMMMMMWMWNXXWWWWMMMMMMMMMMMMMMWMMMWXXNWWMMMMMMMMMMMWWWd.      oWMMMMMMMMMMWWMMMWMMNXXNWWWMMMMMMMMMMMMMMMMMMMNXKNWMMMMMMMMMMMMMK;                 
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMMWMWKxl;'..,oXWMMMMMMMMMWWMMWWKxc,...;dXMMMMMMMMMMMMMO'      oWMMMMMMMMMMMMMMNOo:'..':kNMMMMMMMMMMMMWMWXOo:'..'cOWMMMMMMMMMMMWl                 
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMWXk:.        cNMMMMMMMMMWWWXx:.        oNMMMMMMMMMMMMK,      oWMMMMMMMMMWWW0o,        .kMMMMMMMMMMMMN0l'        '0MMMMMMMMMMMMd.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNl           ,KMMMMMMMMMMMNc           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMM0,          .xMMMMMMMMMMMMO'          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .dMMMMMMMMMMMMx.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.           dMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.           dMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MWMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MMMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MMMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MMMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      '0MMMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.          .xMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      ;KMMMMMMMMMMMNc      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMMMMMMMMMMK,      oWMMMMMMMMMMMO.           dMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                      oWMMMMMMMMMMMN:      ,KMMMMMMMMMMMNc           ,KMMMMMMMMMMWX:           :XMMMMMMMMMMMMK,      lWMMMMMMMMMMMO.          .dMMMMMMMMMMMMk.          .xMMMMMMMMMMMMx.                
-                     :XMMMMMMMMMMMMK,      ,0MMMMMMMMMMMNc           ,KMMMMMMMMMMMX:           :XMMMWMMMMMMMMK,      oWMMMMMMMMMMMO.          .dMMMMMMMMMMWMk.          .xMMMMMMMMMMMMx.                
-                   'oXMMMMMMMMMMMMMk.      .:lllllllllllc.           .:lllllllllllc.           .clllcllllllll:.      'clllllllllll;.           ,llllllllllll,            ,llllllllllll,                 
-                ;dOXWWWMMMMMMMMMMMX:                                                                                                                                                                    
-                ;KMWMMMMMMMMMMMMMNo.                                                                                                                                                                    
-                 oNMWMMMMMMMMMMMXo.                                                                                                                                                                     
-                 .kWMMMMMMMMMMWO;                                                                                                                                                                       
-                  ,KMMMMMWMWXk:.                                                                                                                                                                        
-                   lNMMWN0xl'                                                                                                                                                                           
-                   .:lc;'.   
