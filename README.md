@@ -1,6 +1,6 @@
 # Bienvenido a Portafolio. 👋🏻
 
-¡Hola! Soy Jairo Muñoz Miranda, Desarrollador Jr. con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos, código abierto y contribuir al emocionante mundo del desarrollo.
+¡Hola! Soy Jairo Muñoz Miranda, Desarrollador Jr. con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos open source.
 
 ## Habilidades
 
