@@ -1,6 +1,6 @@
 # Bienvenido a Portafolio. 👋🏻
 
-¡Hola! Soy Desarrollador Jr. con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos open source.
+¡Hola! Soy Desarrollador con experiencia en diversas áreas de desarrollo, tecnologías y entornos. Este repositorio es mi espacio para compartir proyectos open source.
 
 ## Habilidades
 
