@@ -1,7 +1,7 @@
 # Software Developer
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEagXJS45H7Iw/profile-displaybackgroundimage-shrink_350_1400/B4EZkWKN0QHoAc-/0/1757013401386?e=1765411200&v=beta&t=KU9fjBoDS3at5Gd5MjIqMWWXDMMiYn6CxCGqm8GXfVc" alt="Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEagXJS45H7Iw/profile-displaybackgroundimage-shrink_350_1400/B4EZkWKN0QHoAc-/0/1757013401386?e=1767225600&v=beta&t=Lm6UONWNYBhmFJ956UeaOzFdNNkYbyb930dQO3wQCAs" alt="Banner" width="100%">
 </p>
 
 ---
