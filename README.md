@@ -1,7 +1,7 @@
 # Software Developer
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEagXJS45H7Iw/profile-displaybackgroundimage-shrink_350_1400/B4EZkWKN0QHoAc-/0/1757013401386?e=1767225600&v=beta&t=Lm6UONWNYBhmFJ956UeaOzFdNNkYbyb930dQO3wQCAs" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/ZzT8WR0B/bitbird-background.jpg" alt="Banner" width="100%">
 </p>
 
 ---
