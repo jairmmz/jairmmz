@@ -12,7 +12,7 @@
 
 | PHP | JavaScript | TypeScript | C# |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" alt="PHP"> | <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> | <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/320px-C_Sharp_Logo_2023.svg.png" alt="C#"> |
+| <img height="50" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" alt="PHP"> | <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> | <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="C#"> |
 
 ### ⚙️ Backend
 
@@ -42,7 +42,7 @@
 
 | Docker | Git | AWS |
 |:---:|:---:|:---:|
-| <img height="50" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"> | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS"> |
+| <img height="50" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"> | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"> |
 
 ### 🔧 Herramientas
 
