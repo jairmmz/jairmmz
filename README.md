@@ -22,9 +22,9 @@
 
 ### 🎨 Frontend
 
-| Vue.js | Next.js | Angular |
-|:---:|:---:|:---:|
-| <img height="50" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue.js"> | <img height="50" src="https://avatars.githubusercontent.com/u/126103961?s=200&v=4" alt="Next.js"> | <img height="50" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" alt="Angular"> |
+| Vue.js |
+|:---:|
+| <img height="50" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue.js"> |
 
 ### 🗄️ Bases de Datos
 
@@ -34,15 +34,15 @@
 
 ### 📱 Mobile
 
-| Ionic | React Native |
-|:---:|:---:|
-| <img height="50" src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" alt="Ionic"> | <img height="50" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native"> |
+| Ionic |
+|:---:|
+| <img height="50" src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" alt="Ionic"> |
 
 ### ☁️ DevOps & Cloud
 
-| Docker | Git | AWS |
-|:---:|:---:|:---:|
-| <img height="50" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"> | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> | <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"> |
+| Docker | Git |
+|:---:|:---:|
+| <img height="50" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"> | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> |
 
 ### 🔧 Herramientas
 
