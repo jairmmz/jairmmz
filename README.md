@@ -6,9 +6,9 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Skills
 
-### 💻 Lenguajes de Programación
+### 💻 Languages
 
 | PHP | JavaScript | TypeScript | C# |
 |:---:|:---:|:---:|:---:|
@@ -26,7 +26,7 @@
 |:---:|
 | <img height="50" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue.js"> |
 
-### 🗄️ Bases de Datos
+### 🗄️ Database
 
 | MySQL | MariaDB | SQL Server | MongoDB |
 |:---:|:---:|:---:|:---:|
@@ -44,7 +44,7 @@
 |:---:|:---:|
 | <img height="50" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker"> | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> |
 
-### 🔧 Herramientas
+### 🔧 Tools
 
 | VS Code | NPM | Terminal |
 |:---:|:---:|:---:|
@@ -52,7 +52,7 @@
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 ¡Estoy abierto a colaboraciones y nuevas oportunidades!
 
